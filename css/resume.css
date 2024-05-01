@@ -40,7 +40,7 @@ h1 {
     color: black;
     font-weight: 400;
     font-size: var(--font-40);
-    line-height: 0px;
+    line-height: 50px;
     margin-bottom: 40px;
 }
 

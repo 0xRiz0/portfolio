@@ -280,7 +280,7 @@ p {
 .projects .card img {
     width: 100%;
     max-width: 325px;
-    height: auto;
+    height: 200px;
     margin: 0 auto 16px;
 }
 

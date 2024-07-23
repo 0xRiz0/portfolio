@@ -331,6 +331,17 @@ p {
 
 /* === EXPERIENCE === */
 
+.experience-summary .summary-title {
+    max-width: 900px;
+    margin-bottom: 16px;
+
+    font-weight: 400;
+    font-size: var(--font-32);
+    line-height: 150%;
+    opacity: 1;
+    position: relative;
+}
+
 .experience-description {
     max-width: 900px;
     margin-bottom: 125px;
@@ -341,6 +352,7 @@ p {
 
     opacity: 1;
     position: relative;
+    font-size: 18px;
 }
 
 .experience-description img {
@@ -355,6 +367,7 @@ p {
 .experience h2 {
     border-left: 2px solid var(--white);
     padding-left: 24px;
+    margin-top: 50px; /* Adds some space above the Experience title */
 }
 
 .experience .experience-cards {
